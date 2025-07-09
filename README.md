@@ -6,6 +6,8 @@ Software Engineer with 4+ years of experience building web apps and distributed 
 [![GitHub](https://img.shields.io/badge/GitHub-AlekhyaPasupuleti-black?logo=github)](https://github.com/AlekhyaPasupuleti)
 [![Email](https://img.shields.io/badge/Email-alekhyapasupuleti21@gmail.com-red?logo=gmail)](mailto:alekhyapasupuleti21@gmail.com)
 
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+
 ---
 
 ## 🔧 Tech Stack
